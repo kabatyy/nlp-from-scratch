@@ -1,0 +1,1 @@
+all the NLP basics from scratch
